@@ -10,7 +10,18 @@ body {
   color: white;
 }
 
-p {
+.header--sec {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.header--sub-header {
+  font-size: 21px;
+  color: gray;
+}
+
+.link--cta {
   color: Aquamarine;
   font-size: 16px;
 }
